@@ -20,7 +20,7 @@ pytest = "8.4.1"
 pytest-sugar = "1.0.0"
 pytest-cov = "6.2.1"
 poethepoet = "0.36.0"
-pre-commit = "4.2.0"
+pre-commit = "4.3.0"
 
 [tool.poe.env]
 package = "pypack"
